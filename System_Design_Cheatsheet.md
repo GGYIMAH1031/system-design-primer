@@ -1,5 +1,5 @@
 # System Design Cheatsheet
-# url: https://gist.github.com/vasanthk/485d1c25737e8e72759f
+#### url: https://gist.github.com/vasanthk/485d1c25737e8e72759f
 
 > Picking the right architecture = Picking the right battles + Managing trade-offs
 
